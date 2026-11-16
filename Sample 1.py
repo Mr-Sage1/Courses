@@ -5,3 +5,7 @@
 # ///
 # i just asked a question
 print('what is your name?')
+
+# COMMAND ----------
+
+print('thank you')
